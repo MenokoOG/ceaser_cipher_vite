@@ -33,7 +33,7 @@ function CaesarCipher() {
 
   return (
     <div className="container">
-      <h1> Monoko OG Caesar Cipher</h1>
+      <h1> Monoko OG Ceasar Cipher</h1>
       <div>
         <label htmlFor="inputText">Text to encrypt:</label>
         <input
